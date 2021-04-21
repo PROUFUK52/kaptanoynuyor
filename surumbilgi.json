@@ -5,5 +5,15 @@
   "url": "https://google.com",
   "baslik" : "Kırmızı Başlık",
   "detaylar": "Detaycıklar",
-  "panelbasligi": "KaptanOynuyor v0.1 Güncellemesi!"
+  "panelbasligi": "KaptanOynuyor v0.1 Güncellemesi!",
+  "yoksaytusu": "",
+  "balonvarmi": "",
+  "balonbaslik":"",
+  "balonmesaj":"",
+  "balonsure":"",
+  "balonicon":"",
+  "msgboxvarmi":"",
+  "msgboxbaslik":"",
+  "msgboxmesaj":"",
+  "msgboxicon":"",
 }
