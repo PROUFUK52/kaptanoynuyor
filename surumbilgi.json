@@ -3,5 +3,6 @@
   "beta_": 10,
   "alpha_": 10,
   "url": "https://google.com",
-  "details": "ddddDetaylar"
+  "baslik" : "Kırmızı Başlık",
+  "details": "Detaycıklar"
 }
